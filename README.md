@@ -1,8 +1,9 @@
-# React + Vite
+# Food Api Webpage
+This webpage made with react js and tailwind css.
+For data fetching i have used async awit fetch api to show card.
+After the card section this webpage have user info Form which is validated by react hook, 
+after submitting form user info in a card below form.
+By using Tailwind css this webpage is fully responsive for other devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
